@@ -7,9 +7,6 @@ public class Addition {
 	
 			
 public static void main (String[]args) {
-int number1 ;
-int number2;
-	
 Scanner input=new Scanner (System.in);
 
 
@@ -21,7 +18,7 @@ System.out.println(adults+kids);
 
 
 
- input.close();
+ input.close() ;
 
  
 
